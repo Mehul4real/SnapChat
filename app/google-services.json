@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542931339607",
+    "firebase_url": "https://snapchat-be7ee.firebaseio.com",
+    "project_id": "snapchat-be7ee",
+    "storage_bucket": "snapchat-be7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542931339607:android:ab92df48e959de11",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542931339607-4cjni1dhfaunajuq9kll16omkb1477ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snapchat",
+            "certificate_hash": "5d01877e0cd4653da35488306f2c15b0b4c1b2cb"
+          }
+        },
+        {
+          "client_id": "542931339607-ac8pt521o0slno368au84mgu956plkdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR3H6jiixvCRvFKdESxnQkExmrCtF6w7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542931339607-ac8pt521o0slno368au84mgu956plkdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
